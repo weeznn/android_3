@@ -93,7 +93,5 @@ public class Player extends BaseLayer{
     public float getRadius() {
         return radius;
     }
-    void test(){
 
-    }
 }
